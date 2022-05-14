@@ -1,0 +1,24 @@
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    .navegador ul{
+        margin: 5px;
+        padding: 10px;
+        list-style: none;
+    }
+    
+    .navegador ul li{
+        
+        display: inline-block;
+    
+    }
+    .navegador ul li a{
+        display: block;
+        padding: 1px 10px;  
+    }
+    .navegador ul li a :hover{
+        transform:translate(0.2px,-1px);}

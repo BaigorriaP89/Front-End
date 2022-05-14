@@ -1,1 +1,40 @@
-/* You can add global styles to this file, and also import other style files */
+
+
+
+/*ACERCA DE*/
+
+.banner1{
+    width: 100%;
+    height: 200px;
+    background: rgb(84, 84, 141)
+}
+
+.foto_perfil{
+    text-align: center;
+}
+  .foto{
+    position: relative;
+    border-radius: 90%; 
+    bottom: 0150px;
+    
+  
+}
+.nombre {
+    position: relative;
+    bottom: 120px;
+    left: 1px;
+}
+.foto_perfil{
+   width: 100%;
+   height: 200px;
+}
+
+/*EXPERIENCIA*/
+h1{
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+.block_exp{
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
